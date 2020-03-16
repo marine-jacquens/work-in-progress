@@ -24,11 +24,13 @@ header{
     display:flex;
     flex-direction: column;
     color: #013C5C;
+    
 }
 
 h1{
     font-family: 'Anton', sans-serif;
     font-size: 50px; 
+ 
    
 }
 
@@ -36,6 +38,7 @@ p{
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     text-align: justify;
+    color: white;
     
 }
 

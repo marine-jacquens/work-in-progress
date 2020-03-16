@@ -1,0 +1,65 @@
+body 
+{
+    display:flex;
+    flex-direction: column;
+    background-color: #21618C ;
+}
+
+header{
+    height:150px;
+}
+
+.principal{
+    display:flex;
+    align-items: stretch;
+}
+
+.droite{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;   
+}
+
+.message{
+    display:flex;
+    flex-direction: column;
+    color: #013C5C;
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 50px; 
+   
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    
+}
+
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.bouton{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color:white;
+    background:#FFD32F;
+    border-radius: 10px;   
+    padding: 5px 20px;
+    text-decoration: none; 
+}
+
+a:hover {
+    color:#21618C ;
+}
+
+.vide{
+    height:150px;
+}

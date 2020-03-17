@@ -6,8 +6,9 @@ body
 }
 
 header{
-    height:150px;
+     height: 200px;
 }
+
 
 .principal{
     display:flex;
@@ -39,6 +40,7 @@ p{
     font-size: 15px;
     text-align: justify;
     color: white;
+    width:500px;
     
 }
 
@@ -53,7 +55,7 @@ h3{
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     color:white;
-    background:#FFD32F;
+    background:#F5C464;
     border-radius: 10px;   
     padding: 5px 20px;
     text-decoration: none; 
@@ -63,6 +65,7 @@ a:hover {
     color:#21618C ;
 }
 
-.vide{
-    height:150px;
+footer
+{
+    height: 100px;
 }

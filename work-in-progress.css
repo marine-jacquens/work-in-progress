@@ -24,13 +24,14 @@ header{
 .message{
     display:flex;
     flex-direction: column;
-    color: #013C5C;
+    color: white;
     
 }
 
 h1{
     font-family: 'Anton', sans-serif;
     font-size: 50px; 
+    text-shadow: 3px 3px 3px #013C5C;
  
    
 }
@@ -39,6 +40,7 @@ p{
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     text-align: justify;
+    text-shadow: 1px 1px 2px black;
     color: white;
     width:500px;
     
@@ -49,6 +51,7 @@ h3{
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     font-style: italic;
+    text-shadow: 3px 3px 3px #013C5C;
 }
 
 .bouton{
@@ -59,6 +62,7 @@ h3{
     border-radius: 10px;   
     padding: 5px 20px;
     text-decoration: none; 
+    text-shadow: 1px 1px 2px #013C5C;
 }
 
 a:hover {
